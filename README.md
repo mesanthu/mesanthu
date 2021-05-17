@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mesanthu
-- 👀 I’m interested in Python, Hardware programming, Data Science
+- 👀 I’m interested in PHP, Python, Hardware programming, Data Science, React
 - 🌱 I’m currently learning Python, React
 - 💞️ I’m looking to collaborate on PHP, Python
 - 📫 How to reach me santhosh.mr123@gmail, s.santhusn ( FB ) 
